@@ -19,3 +19,5 @@ Es así como este proyecto tiene como objetivo hacer predicciones acerca de seri
 - Telecomunicaciones
 - Financieros
 - Productos de consumo no basicos
+
+El video se encuentra disponibe en el [enlace](https://drive.google.com/file/d/1B_tpKeaYKI0agwd3qzuXVbcHL7Jgl3eL/view?usp=sharing)
