@@ -20,4 +20,4 @@ Es así como este proyecto tiene como objetivo hacer predicciones acerca de seri
 - Financieros
 - Productos de consumo no basicos
 
-El video se encuentra disponibe en el [enlace](https://drive.google.com/file/d/1B_tpKeaYKI0agwd3qzuXVbcHL7Jgl3eL/view?usp=sharing)
+El video se encuentra disponible en el [enlace](https://drive.google.com/file/d/1B_tpKeaYKI0agwd3qzuXVbcHL7Jgl3eL/view?usp=sharing)
